@@ -1,0 +1,12 @@
+// Define variable defaults
+$primary: #ff5833;
+$container-max-width: (
+  sm: 540px,
+  md: 704px,
+  lg: 924px,
+  xl: 1140px,
+  xxl: 1364px,
+);
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
